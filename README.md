@@ -1,16 +1,16 @@
-## Hi there 👋
+# Salut 👋
 
-<!--
-**ad-tr/ad-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en M2 Architecture Logiciels et focus sur l'IA.
 
-Here are some ideas to get you started:
+## Ce que je fais
+- Implémentations from scratch de modèles (Tokenizer, LLM)
+- Déploiement de modèles en production
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets notables
+**[BPE Tokenizer](https://github.com/ad-tr/byte-pair-encoding-tokenizer.git)** - Implémentation d'un Byte Pair Encoding tokenizer form scratch
+**[Financial Language Model](https://github.com/ad-tr/financial-language-model.git)** - Implémentation d'un modèle de language style GPT from scratch
+
+## Stack
+Python • PyTorch • FastAPI • Docker • AWS
+
+📫 adrien@tranchant.ai | [Mon Linkedin](https://www.linkedin.com/in/adrien-tranchant-a42754235/)
