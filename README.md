@@ -7,8 +7,14 @@
 - Déploiement de modèles en production
 
 ## Projets notables
-**[BPE Tokenizer](https://github.com/ad-tr/byte-pair-encoding-tokenizer.git)** - Implémentation d'un Byte Pair Encoding tokenizer form scratch
-**[Financial Language Model](https://github.com/ad-tr/financial-language-model.git)** - Implémentation d'un modèle de language style GPT from scratch
+**[BPE Tokenizer](https://github.com/ad-tr/byte-pair-encoding-tokenizer.git)**
+
+Implémentation d'un Byte Pair Encoding tokenizer form scratch
+
+
+**[Financial Language Model](https://github.com/ad-tr/financial-language-model.git)**
+
+Implémentation d'un modèle de language style GPT from scratch
 
 ## Stack
 Python • PyTorch • FastAPI • Docker • AWS
