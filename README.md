@@ -13,6 +13,6 @@
 **[Financial Language Model](https://github.com/ad-tr/financial-language-model.git)** - Implémentation d'un modèle de language style GPT from scratch
 
 ## Stack
-Python • PyTorch • FastAPI • Docker • AWS
+Python • PyTorch • FastAPI • Docker
 
 📫 adrien@tranchant.ai | [Mon Linkedin](https://www.linkedin.com/in/adrien-tranchant-a42754235/)
