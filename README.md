@@ -1,6 +1,6 @@
 # Salut 👋
 
-Étudiant en M2 Architecture Logiciels et focus sur l'IA.
+Étudiant en M1 Architecture Logiciels et focus sur l'IA.
 
 ## Ce que je fais
 - Implémentations from scratch de modèles (Tokenizer, LLM)
