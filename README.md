@@ -1,6 +1,6 @@
 # Salut 👋
 
-Étudiant en M1 Architecture Logiciels.
+Étudiant en M2 Architecture Logiciels.
 
 ## Ce que je fais
 - Implémentations from scratch de modèles (Tokenizer, LLM)
